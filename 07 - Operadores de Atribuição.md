@@ -1,5 +1,5 @@
 
-# Fundamentos Da Linguamgem De Progrmação C#
+# Fundamentos Da Linguamgem C#
 
 
 ## **Aula 07 — Operadores de Atribuição, Incremento e Decremento**
