@@ -1,6 +1,9 @@
-### **Aula: Declaração e Uso de Métodos em C#**
 
-#### **O que é um método?**
+# Fundamentos Da Linguagem C#
+
+## **Aula 18 - Declaração e Uso de Métodos em C#**
+
+### **O que é um método?**
 Um **método** em C# é como uma receita: ele tem um nome, faz uma tarefa específica e você pode chamá-lo sempre que precisar. Métodos ajudam a organizar o código, evitando repetições, e tornam o programa mais fácil de entender.
 
 Por exemplo:
