@@ -1,7 +1,7 @@
 
-### **Aula Básica: Listas em C# para Iniciantes**
+# **Fundamentos Da Linguagem C#**
 
-#### **O que é uma lista?**
+### **Aula 17 - O que é uma lista?**
 Uma lista em C# é como uma "caixa mágica" que pode guardar várias coisas (números, palavras, etc.) e que cresce ou diminui conforme você adiciona ou tira itens. Diferente de um array, que tem tamanho fixo, a lista é flexível.
 
 Por exemplo:
