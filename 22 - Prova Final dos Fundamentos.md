@@ -1,6 +1,4 @@
-Beleza! Com base na estrutura de aprendizado que você forneceu, vou criar uma **Prova Final dos Fundamentos de C#** que cobre os tópicos de 01 a 21. A prova será composta por **5 programas** que você deverá desenvolver, cada um testando diferentes conceitos aprendidos, como variáveis, constantes, entrada/saída, operadores, estruturas condicionais, laços de repetição, arrays, listas, métodos, conversão de tipos, escopo e boas práticas. Cada programa terá instruções claras, e vou garantir que a prova seja desafiadora, mas adequada ao nível iniciante, sem pular para tópicos avançados. 😊
-
-### **Prova Final de Fundamentos de C#**
+# **Prova Final dos Fundamentos Da Linguagem C#**
 
 #### **Instruções Gerais**
 - Escreva cada programa dentro do método correspondente (`Programa1`, `Programa2`, etc.).
