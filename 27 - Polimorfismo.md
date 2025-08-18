@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Polimorfismo
+# Programação Orientada a Objetos em C#
 
-## Introdução ao Polimorfismo
+## Aula 27 - Introdução ao Polimorfismo
 
 Parabéns por avançar na Programação Orientada a Objetos (POO)! Agora que você entende classes, objetos, construtores, encapsulamento e herança, é hora de explorar o **polimorfismo**, um dos pilares mais poderosos da POO. Polimorfismo significa "muitas formas" e permite que objetos de diferentes classes sejam tratados de maneira uniforme, mas com comportamentos específicos.
 
