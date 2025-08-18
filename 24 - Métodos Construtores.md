@@ -1,6 +1,6 @@
 # Programação Orientada a Objetos em C#
 
-## Aula 24 - Introdução aos Métodos Construtores
+## Aula 24 - Introdução aos Métodos Construtores 
 
 Agora que você já sabe criar **classes** e **objetos** em C#, é hora de aprender sobre **métodos construtores**, um conceito essencial na Programação Orientada a Objetos (POO). Construtores são como as instruções iniciais para montar um brinquedo novo: eles garantem que o objeto comece com tudo no lugar certo, pronto para ser usado.
 
