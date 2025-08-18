@@ -1,6 +1,6 @@
-# Estruturas de Dados em C#: Arrays (Unidimensionais e Multidimensionais)
+# Estruturas de Dados em C#
 
-## Introdução aos Arrays
+## Aula 31 - Introdução aos Arrays
 
 Bem-vindo ao capítulo de Estruturas de Dados e Coleções em C#! Depois de dominar os fundamentos e a Programação Orientada a Objetos (POO), é hora de aprender sobre **arrays**, uma das estruturas de dados mais simples e úteis. Arrays são como uma prateleira de caixas numeradas: cada caixa guarda um item, e você pode acessá-las facilmente pelo número da caixa.
 
