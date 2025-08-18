@@ -1,4 +1,6 @@
-### **Aula: Conversão de Tipos em C# (Cast, Parse, TryParse)**
+# Fundamentos da Linguagem C#
+
+## **Aula 19: Conversão de Tipos em C# (Cast, Parse, TryParse)**
 
 #### **O que é conversão de tipos?**
 Em C#, cada dado tem um **tipo** (ex.: `int` para números inteiros, `double` para números com decimal, `string` para texto). Às vezes, você precisa transformar um tipo em outro, como:
