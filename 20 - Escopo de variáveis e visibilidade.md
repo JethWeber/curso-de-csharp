@@ -1,6 +1,6 @@
 # Fundamentos da Linguagem C#
 
-## **Aula - Escopo e Visibilidade de Variáveis em C#**
+## **Aula 20 - Escopo e Visibilidade de Variáveis em C#**
 
 #### **O que é escopo?**
 O **escopo** de uma variável é a parte do programa onde ela pode ser usada. Pense como uma "área de validade" da variável: fora dessa área, ela não existe ou não pode ser acessada.
