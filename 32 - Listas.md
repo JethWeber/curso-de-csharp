@@ -1,6 +1,7 @@
-# Estruturas de Dados em C#: Listas (List)
 
-## Introdução às Listas
+# Estruturas de Dados em C#
+
+## Aula 32 - Introdução às Listas
 
 Bem-vindo ao capítulo de Estruturas de Dados e Coleções em C#! Após aprender sobre arrays, é hora de explorar **listas**, ou `List<T>`, uma estrutura de dados mais flexível. Enquanto arrays são como prateleiras com um número fixo de caixas, listas são como cadernos de anotações: você pode adicionar, remover ou reorganizar páginas (itens) sempre que quiser.
 
