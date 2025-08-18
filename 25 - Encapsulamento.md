@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Encapsulamento
+# Programação Orientada a Objetos em C#
 
-## Introdução ao Encapsulamento
+## Aula 25 - Introdução ao Encapsulamento
 
 Parabéns por avançar na Programação Orientada a Objetos (POO)! Agora que você sabe criar classes, objetos e construtores, é hora de aprender sobre **encapsulamento**, um dos pilares da POO. Encapsulamento é como guardar seus objetos pessoais em uma caixa trancada: você controla quem pode acessar ou modificar o que está dentro, mantendo tudo seguro e organizado.
 
