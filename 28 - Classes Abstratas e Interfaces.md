@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Classes Abstratas e Interfaces
+# Programação Orientada a Objetos em C#
 
-## Introdução às Classes Abstratas e Interfaces
+## Aula 28 - Introdução às Classes Abstratas e Interfaces
 
 Parabéns por avançar na Programação Orientada a Objetos (POO)! Agora que você entende classes, objetos, construtores, encapsulamento, herança e polimorfismo, é hora de explorar **classes abstratas** e **interfaces**, dois conceitos poderosos que ajudam a estruturar e organizar seu código. Eles são como as regras de uma cozinha profissional: classes abstratas fornecem uma base comum para pratos semelhantes, enquanto interfaces garantem que todos sigam um padrão, mesmo sendo diferentes.
 
