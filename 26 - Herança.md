@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Herança
+# Programação Orientada a Objetos em C#
 
-## Introdução à Herança
+## Aula 26 - Introdução à Herança
 
 Parabéns por avançar na Programação Orientada a Objetos (POO)! Agora que você entende classes, objetos, construtores e encapsulamento, é hora de aprender sobre **herança**, um conceito poderoso que permite reutilizar código de forma eficiente. Herança é como uma família: os filhos herdam características e comportamentos dos pais, mas podem ter suas próprias particularidades.
 
