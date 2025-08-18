@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Classes e Objetos
+# Programação Orientada a Objetos em C#
 
-## Introdução à Programação Orientada a Objetos
+## Aula 23 - Introdução à Programação Orientada a Objetos
 
 Parabéns por chegar à Programação Orientada a Objetos (POO)! Agora que você já domina os fundamentos de C#, como variáveis, métodos e loops, é hora de aprender a organizar seu código de forma mais inteligente. POO é como construir uma casa com blocos reutilizáveis: cada bloco (objeto) tem uma função específica, e você pode usá-los para criar algo maior e mais organizado.
 
