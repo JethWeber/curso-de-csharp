@@ -1,6 +1,7 @@
-# Estruturas de Dados em C#: Dicionários (Dictionary<TKey, TValue>)
 
-## Introdução aos Dicionários
+# Estruturas de Dados em C#
+
+## Aula 33 - Introdução aos Dicionários
 
 Bem-vindo ao capítulo de Estruturas de Dados e Coleções em C#! Após aprender sobre arrays e listas, é hora de explorar **dicionários**, ou `Dictionary<TKey, TValue>`, uma estrutura poderosa para associar chaves a valores. Pense em um dicionário como uma agenda telefônica: cada nome (chave) está ligado a um número de telefone (valor), e você pode encontrar o número rapidamente usando o nome.
 
