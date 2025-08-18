@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos em C#: Membros Estáticos
+# Programação Orientada a Objetos em C#
 
-## Introdução aos Membros Estáticos
+## Aula 29 - Introdução aos Membros Estáticos
 
 Parabéns por continuar avançando na Programação Orientada a Objetos (POO)! Depois de aprender sobre classes, objetos, construtores, encapsulamento, herança, polimorfismo, classes abstratas e interfaces, é hora de explorar **membros estáticos** (ou `static`). Membros estáticos são como ferramentas compartilhadas em uma casa: todos os moradores podem usá-las sem precisar criar uma nova ferramenta para cada pessoa.
 
