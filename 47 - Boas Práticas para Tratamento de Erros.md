@@ -443,7 +443,7 @@ public void Transferir(double valor)
 **Explicação detalhada**:
 - A documentação XML ajuda outros desenvolvedores a entenderem quais exceções esperar.
 - Ferramentas como o Visual Studio mostram essas informações ao usar o método.
-
+                                                                                                                                   
 **Exemplo do dia a dia**: Em um sistema de pagamentos, documentar exceções para métodos de transferência, facilitando o uso por outros desenvolvedores.
 
 ## Conclusão
@@ -451,3 +451,5 @@ public void Transferir(double valor)
 Nesta aula, consolidamos as **boas práticas para tratamento de erros** em C#, abordando como capturar exceções específicas, evitar blocos `catch` vazios, fornecer mensagens claras, usar `finally` para liberar recursos, registrar erros, evitar exceções para fluxo normal e documentar métodos. Essas práticas garantem que seu código seja robusto, fácil de manter e ofereça uma boa experiência ao usuário, especialmente em sistemas críticos como multibancos ou cadastros.
 
 **Próximos passos**: Tente criar um programa que simule um sistema de pagamento ou registo, aplicando pelo menos três dessas boas práticas, como capturar exceções específicas, registrar erros e usar mensagens claras. Quanto mais você praticar, mais natural será escrever código resiliente a erros!
+
+Até a próxima Aula!
