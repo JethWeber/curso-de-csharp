@@ -1,0 +1,14 @@
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/bin/Debug/net9.0/estudo25
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/bin/Debug/net9.0/estudo25.deps.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/bin/Debug/net9.0/estudo25.runtimeconfig.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/bin/Debug/net9.0/estudo25.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/bin/Debug/net9.0/estudo25.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.GeneratedMSBuildEditorConfig.editorconfig
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.AssemblyInfoInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.AssemblyInfo.cs
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.csproj.CoreCompileInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/refint/estudo25.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/estudo25.genruntimeconfig.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/estudo25/obj/Debug/net9.0/ref/estudo25.dll

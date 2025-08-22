@@ -1,0 +1,14 @@
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/bin/Debug/net8.0/estudo07
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/bin/Debug/net8.0/estudo07.deps.json
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/bin/Debug/net8.0/estudo07.runtimeconfig.json
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/bin/Debug/net8.0/estudo07.dll
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/bin/Debug/net8.0/estudo07.pdb
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.AssemblyInfoInputs.cache
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.AssemblyInfo.cs
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.csproj.CoreCompileInputs.cache
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.dll
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/refint/estudo07.dll
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.pdb
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/estudo07.genruntimeconfig.cache
+/home/jeth/EstudosDedicados/learning-csharp/estudo07/obj/Debug/net8.0/ref/estudo07.dll

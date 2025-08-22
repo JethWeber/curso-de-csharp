@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvJwGBpeeM4=",
+  "success": true,
+  "projectFilePath": "/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/Exe_array.csproj",
+  "expectedPackageFiles": [
+    "/home/jeth/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "/home/jeth/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "/home/jeth/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.19/microsoft.netcore.app.host.linux-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

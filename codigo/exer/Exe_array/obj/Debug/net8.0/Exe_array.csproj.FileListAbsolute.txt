@@ -1,0 +1,14 @@
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/bin/Debug/net8.0/Exe_array
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/bin/Debug/net8.0/Exe_array.deps.json
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/bin/Debug/net8.0/Exe_array.runtimeconfig.json
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/bin/Debug/net8.0/Exe_array.dll
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/bin/Debug/net8.0/Exe_array.pdb
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.AssemblyInfoInputs.cache
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.AssemblyInfo.cs
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.csproj.CoreCompileInputs.cache
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.dll
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/refint/Exe_array.dll
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.pdb
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/Exe_array.genruntimeconfig.cache
+/home/jeth/EstudosDedicados/learning-csharp/exer/Exe_array/obj/Debug/net8.0/ref/Exe_array.dll

@@ -1,0 +1,14 @@
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/bin/Debug/net9.0/funcoes-array
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/bin/Debug/net9.0/funcoes-array.deps.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/bin/Debug/net9.0/funcoes-array.runtimeconfig.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/bin/Debug/net9.0/funcoes-array.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/bin/Debug/net9.0/funcoes-array.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.GeneratedMSBuildEditorConfig.editorconfig
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.AssemblyInfoInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.AssemblyInfo.cs
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.csproj.CoreCompileInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/refint/funcoes-array.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/funcoes-array.genruntimeconfig.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/funcoes-array/obj/Debug/net9.0/ref/funcoes-array.dll

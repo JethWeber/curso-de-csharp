@@ -1,0 +1,14 @@
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/bin/Debug/net9.0/sistem-of-cad-fygter
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/bin/Debug/net9.0/sistem-of-cad-fygter.deps.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/bin/Debug/net9.0/sistem-of-cad-fygter.runtimeconfig.json
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/bin/Debug/net9.0/sistem-of-cad-fygter.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/bin/Debug/net9.0/sistem-of-cad-fygter.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.GeneratedMSBuildEditorConfig.editorconfig
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.AssemblyInfoInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.AssemblyInfo.cs
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.csproj.CoreCompileInputs.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/refint/sistem-of-cad-fygter.dll
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.pdb
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/sistem-of-cad-fygter.genruntimeconfig.cache
+/media/jeth/aafc6f7a-a27c-415a-bac4-9fcc32f247aa/home/jeth/EstudosDedicados/learning-csharp/exer/sistem-of-cad-fygter/obj/Debug/net9.0/ref/sistem-of-cad-fygter.dll
