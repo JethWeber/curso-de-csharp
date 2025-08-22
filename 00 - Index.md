@@ -50,3 +50,23 @@ Este repositório contém um curso completo de C#, organizado em módulos progre
 - [32 - Listas](32%20-%20Listas.md)
 - [33 - Dicionários](33%20-%20Dicion%C3%A1rios.md)
 - [34 - Filas e Pilhas](34%20-%20Filas%20e%20Pilhas.md)
+- [35 - Conjuntos](35%20-%20Conjuntos.md)
+- [36 - Manipulação de Coleções](36%20-%20Manipulação%20de%20Coleções.md)
+- [37 - Iteração com foreach e LINQ básico](37%20-%20Iteração%20com%20foreach%20e%20LINQ%20básico.md)
+
+## 4. Manipulação de String
+ 
+- [38 - Métodos de String](38%20-%20Métodos%20de%20String.md)
+- [39 - Formatação de String](39%20-%20Formatação%20de%20String.md)
+- [40 - StringBuilder](40%20-%20StringBuilder.md)
+- [41 - Expreções Regulares](41%20-%20Expreções%20Regulares.md)
+- [42 - Validação de Dados com Strings e Regex](42%20-%20Validação%20de%20Dados%20com%20Strings%20e%20Regex.md)
+
+## 5. Gerenciamento de Exceções e Tratamento de Erros
+
+- [43 - Bloco try-catch-finally](43%20-%20Bloco%20try-catch-finally.md)
+- [44 - Tipos de Exceções](44%20-%20Tipos%20de%20Exceções.md)
+- [45 - Lançamento de exceções](45%20-%20Lançamento%20de%20exceções.md)
+- [46 - Criação de exceções personalisadas](46%20-%20Criação%20de%20exceções%20personalisadas.md)
+- [47 - Boas Práticas para Tratamento de Erros](47%20-%20Boas%20Práticas%20para%20Tratamento%20de%20Erros.md)
+
