@@ -1,1 +1,17 @@
 15 - Laço de repetição foreach.md
+# Ignorar configurações e lixeira do Obsidian
+.obsidian/
+.trash/
+
+# Ignorar backups ou arquivos temporários
+*.bak
+*.tmp
+*.swp
+
+# Ignorar arquivos específicos que não devem ir para o GitHub
+15 - Laço de repetição foreach.md
+15 - Laço de repetição forech.md
+
+# Ignorar caches do sistema
+.DS_Store
+Thumbs.db
