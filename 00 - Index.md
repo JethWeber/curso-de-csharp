@@ -2,6 +2,8 @@
 
 Este repositório contém um curso completo de C#, organizado em módulos progressivos. Cada link abaixo leva diretamente ao conteúdo correspondente.
 
+
+
 ---
 
 ## 🧱 1. Fundamentos da Linguagem
@@ -31,6 +33,8 @@ Este repositório contém um curso completo de C#, organizado em módulos progre
 
 ---
 
+
+
 ## 🧠 2. Programação Orientada a Objetos (POO)
 
 - [23 - Introdução à POO](23%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20POO.md)
@@ -45,6 +49,8 @@ Este repositório contém um curso completo de C#, organizado em módulos progre
 ---
 
 ## 📚 3. Estruturas de Dados e Coleções
+
+
 
 - [31 - Arrays](31%20-%20Arrays.md)
 - [32 - Listas](32%20-%20Listas.md)
