@@ -1,10 +1,13 @@
+
 # Estruturas de Dados em C#
 
 ## Aula 35 - Introdução aos Conjuntos (`HashSet<T>`, `SortedSet<T>`)
 
 Bem-vindo ao capítulo de Estruturas de Dados e Coleções em C#! Após explorarmos arrays, listas, dicionários, filas e pilhas, é hora de conhecer os **conjuntos** (`HashSet<T>` e `SortedSet<T>`), estruturas de dados que armazenam elementos **únicos** de forma eficiente. Conjuntos são ideais quando você precisa garantir que não haja duplicatas e deseja realizar operações como união, interseção ou diferença.
 
+
 Nesta aula, vamos aprender o que são conjuntos, como usá-los em C# e quando aplicá-los, com exemplos práticos do dia a dia.
+
 
 ### Objetivo
 
